@@ -59,4 +59,5 @@ int main(){
                 printf("Invalid choice! ");
         }
     }while(choice!=3);
+    return 0;
 }
